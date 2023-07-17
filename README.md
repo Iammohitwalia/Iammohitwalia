@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Laravel to further enhance my skills and stay up-to-date with the latest technologies in web development.
 
-📫 You can contact me on WhatsApp at +917018629215. I'm excited to hear from you and discuss how I can contribute to your projects!
+📫 You can contact me on mohitwalia5490@gmail.com. I'm excited to hear from you and discuss how I can contribute to your projects!
 
 <!---
 Iammohitwalia/Iammohitwalia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
