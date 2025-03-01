@@ -1,10 +1,19 @@
-👋 Hi, I’m @Iammohitwalia 👋
+# 👋 Hey there! I'm Mohit Walia  
 
-🧑‍💻 I'm a skilled backend developer with experience in PHP, JavaScript, jQuery, ReactJS, WordPress, Webflow, Shopify, Wix, Squarespace, Node.js API development, Next.js, MERN stack, Express.js, and MongoDB cluster and MySQL management.
+### 🧑‍💻 Backend Developer | Full-Stack Enthusiast  
 
-🌱 I’m currently learning Laravel to further enhance my skills and stay up-to-date with the latest technologies in web development.
+I'm a passionate **backend developer** with expertise in:  
+- ✅ **PHP, JavaScript, jQuery, ReactJS**  
+- ✅ **WordPress, Webflow, Shopify, Wix, Squarespace**  
+- ✅ **Node.js API Development, Express.js, Next.js, MERN Stack**  
+- ✅ **MongoDB Cluster & MySQL Management**  
 
-📫 You can contact me on mohitwalia5490@gmail.com. I'm excited to hear from you and discuss how I can contribute to your projects!
+### 🚀 Currently Learning  
+I'm diving into **Laravel** to expand my backend skills and stay ahead in modern web development.  
+
+### 📬 Let's Connect  
+Got an exciting project or just want to chat about tech? Feel free to reach out!  
+📧 **Email:** [mohitwalia5490@gmail.com](mailto:mohitwalia5490@gmail.com)  
 
 <!---
 Iammohitwalia/Iammohitwalia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
